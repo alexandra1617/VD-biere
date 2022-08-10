@@ -18,6 +18,7 @@ Ce projet utilise des données WHO Global Health Observatory (GHO) trouvées sur
 D3
 
 # Difficultés
+Ce projet ayant été réalisé par deux étudiants en Master DCS n'ayant aucune expérience préalable dans les languages nécessaires à la réalisation de ce projet.
 
 # Auteurs
 Léonard Bigler et Alexandra Stojanova
