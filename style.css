@@ -18,7 +18,7 @@ button, select {
 }
 
 #header .header-image {
-    background-image: url("image.jpeg");
+    background-image: url("image/image.jpeg");
     background-size: cover;
     background-position: center;
     height: 100%;
