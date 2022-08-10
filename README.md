@@ -15,6 +15,7 @@ Ce projet utilise des données WHO Global Health Observatory (GHO) trouvées sur
 ![3](https://user-images.githubusercontent.com/104446910/183876288-fd235c0f-0469-4b74-b56a-22c6e80207be.png)
 
 # Les éventuels modules, librairies ou scripts intégrés ou nécessaires au bon fonctionnement de votre projet
+D3
 
 # Difficultés
 
