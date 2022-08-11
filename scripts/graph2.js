@@ -17,7 +17,7 @@ const data2 = [
   {group: "Macédoine", value: 1.93},
   {group: "Italie", value: 1.99},
   {group: "Grèce", value: 2.13},
-  {group: "Biélorussie", value: 2.26 },
+  {group: "Biélorussie", value: 2.26},
   {group: "Ukraine", value: 2.44},
   {group: "France", value: 2.52},
   {group: "Suède", value: 2.60},
