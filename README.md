@@ -16,7 +16,7 @@ Le but de ce projet est d'utiliser les données sur la consommation de bière da
 ![2](https://user-images.githubusercontent.com/104446910/183876278-486027f7-cb4e-46ad-b14a-a1c7d871f316.png)
 ![3](https://user-images.githubusercontent.com/104446910/183876288-fd235c0f-0469-4b74-b56a-22c6e80207be.png)
 
-# Les éventuels modules, librairies ou scripts intégrés ou nécessaires au bon fonctionnement de votre projet
+# Libraire
 Ce projet a été développé avec la librairie D3.
 
 # Difficultés
