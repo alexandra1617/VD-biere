@@ -10,7 +10,7 @@ const svg3 = d3.select("#graph3")
     .attr("transform", `translate(${margin2.left}, ${margin2.top})`);
 
 
-d3.csv("data/switzerland.csv").then( function(data) {
+d3.csv("data/switzerland.csv").then(function(data) {
 
     const allGroup = new Set(data.map(d => d.Type))
 
