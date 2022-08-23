@@ -14,7 +14,7 @@ Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.i
 ![3](https://user-images.githubusercontent.com/104446910/183876288-fd235c0f-0469-4b74-b56a-22c6e80207be.png)
 
 ## Librairies utilisées
-Toutes les visualisations de ce projet ont été réalisées en utilisant la librairie D3.js.
+Toutes les visualisations de ce projet ont été réalisées en utilisant D3.js.
 
 ## Données
 Les données utilisées dans ce projet proviennent de fichier CSV téléchargés sur le site OurWorldInData (https://ourworldindata.com) qui recensent la consommation des trois types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en avant l'information que les différentes visualisations essaient d'illustrer.
