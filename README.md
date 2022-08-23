@@ -6,7 +6,7 @@ Il est accessible en cliquant sur le lien suivant : [https://alexandra1617.githu
 À partir de données du WHO Global Health Observatory (GHO) rendues disponibles sur le site OurWorldInData (https://ourworldindata.com), trois visualisation ont été réalisées : 
 - La première consiste en une carte choroplèthe de la consommation de bière par pays dans le monde. 
 - La deuxième est un diagramme à barre interactif représentant alternativement, selon le bouton cliqué, les 10 plus gros/plus petits pays consommateurs de bière en Europe.
-- La troisième est une comparaison interactive de l'évolution en Suisse de l'alcool sélectionné dans un menu déroulant (bière/vin/spiritueux).
+- La troisième est une comparaison interactive de l'évolution en Suisse de de la consommation de l'alcool sélectionné dans un menu déroulant (bière/vin/spiritueux).
 
 ## Illustrations
 ![1](https://user-images.githubusercontent.com/104446910/183876268-716293da-4775-460c-9bae-6a381d05ae6b.png)
@@ -17,7 +17,7 @@ Il est accessible en cliquant sur le lien suivant : [https://alexandra1617.githu
 Toutes les visualisations de ce projet ont été réalisées en utilisant D3.js.
 
 ## Données
-Les données utilisées dans ce projet proviennent de trois fichier CSV qui recensent la consommation des différents types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en avant l'information que les différentes visualisations essaient d'illustrer.
+Les données utilisées proviennent de trois fichier CSV qui recensent la consommation des différents types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque pays de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en évidence les informations que les différentes visualisations essaient d'illustrer.
 
 ## Auteurs
 Léonard Bigler et Alexandra Stojanova
