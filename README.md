@@ -14,7 +14,7 @@ Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.i
 ![3](https://user-images.githubusercontent.com/104446910/183876288-fd235c0f-0469-4b74-b56a-22c6e80207be.png)
 
 ## Librairies utilisées
-Ce projet a été développé avec la librairie D3.
+Toutes les visualisations de ce projet ont été réalisées en utilisant la librairie D3.
 
 ## Données
 Il utilise des données du données WHO Global Health Observatory (GHO) trouvées sur le site OurWorldInData (https://ourworldindata.com).
