@@ -10,8 +10,8 @@ Il est accessible en cliquant sur le lien suivant : [https://alexandra1617.githu
 
 ## Illustrations
 ![1](https://user-images.githubusercontent.com/104446910/183876268-716293da-4775-460c-9bae-6a381d05ae6b.png)
-![2](https://user-images.githubusercontent.com/104446910/183876278-486027f7-cb4e-46ad-b14a-a1c7d871f316.png)
-![3](https://user-images.githubusercontent.com/104446910/183876288-fd235c0f-0469-4b74-b56a-22c6e80207be.png)
+![2](https://user-images.githubusercontent.com/80776837/186187881-37c06852-bbf8-4fc4-94fb-75b623bba1df.png)
+
 
 ## Librairies utilisées
 Toutes les visualisations de ce projet ont été réalisées en utilisant D3.js.
