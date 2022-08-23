@@ -3,10 +3,10 @@ Ce projet a été développé dans le cadre du cours de visualisation de donnée
 Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.io/VD-biere/]
 
 ## Description
-À partir de données du WHO Global Health Observatory (GHO) trouvées sur le site OurWorldInData (https://ourworldindata.com), trois visualisation ont été réalisées : 
+À partir de données du WHO Global Health Observatory (GHO), trois visualisation ont été réalisées : 
 - La première consiste en une carte choroplèthe de la consommation de bière par pays dans le monde. 
-- La deuxième est un diagramme à barre représentant les 10 plus gros/plus petits consommateurs de bière en Europe.
-- La troisième est une comparaison de l'évolution de la consommation de bière/vin/spiritueux en Suisse.
+- La deuxième est un diagramme à barre interactif représentant les 10 plus gros/plus petits consommateurs de bière en Europe.
+- La troisième est une comparaison interactive de l'évolution de la consommation de bière/vin/spiritueux en Suisse.
 
 ## Illustrations
 ![1](https://user-images.githubusercontent.com/104446910/183876268-716293da-4775-460c-9bae-6a381d05ae6b.png)
@@ -17,10 +17,8 @@ Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.i
 Toutes les visualisations de ce projet ont été réalisées en utilisant la librairie D3.js.
 
 ## Données
-Il utilise des données du données WHO Global Health Observatory (GHO) trouvées sur le site OurWorldInData (https://ourworldindata.com).
+Les données utilisées dans ce projet proviennent de fichier CSV téléchargés sur le site OurWorldInData (https://ourworldindata.com) qui recensent la consommation des trois types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en avant l'information que les différentes visualisations essaient d'illustrer.
 
-## Difficultés
-Ce projet ayant été réalisé par deux étudiants en Master DCS n'ayant aucune expérience préalable dans les languages nécessaires à la réalisation de ce projet.
 
 ## Auteurs
 Léonard Bigler et Alexandra Stojanova
