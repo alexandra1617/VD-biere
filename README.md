@@ -1,6 +1,6 @@
 # VD-biere
 Ce projet a été développé dans le cadre du cours de visualisation de données dispensé par Isaac Pante (UNIL). 
-Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.io/VD-biere/]
+Il est disponible en cliquant sur le lien suivant : [https://alexandra1617.github.io/VD-biere/].
 
 ## Description
 À partir de données du WHO Global Health Observatory (GHO) rendues disponibles sur le site OurWorldInData (https://ourworldindata.com), trois visualisation ont été réalisées : 
