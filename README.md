@@ -3,7 +3,7 @@ Ce projet a été développé dans le cadre du cours de visualisation de donnée
 Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.io/VD-biere/]
 
 ## Description
-À partir de données du WHO Global Health Observatory (GHO), trois visualisation ont été réalisées : 
+À partir de données du WHO Global Health Observatory (GHO) rendues disponibles sur le site OurWorldInData (https://ourworldindata.com), trois visualisation ont été réalisées : 
 - La première consiste en une carte choroplèthe de la consommation de bière par pays dans le monde. 
 - La deuxième est un diagramme à barre interactif représentant les 10 plus gros/plus petits consommateurs de bière en Europe.
 - La troisième est une comparaison interactive de l'évolution de la consommation de bière/vin/spiritueux en Suisse.
@@ -17,7 +17,7 @@ Le résultat est visible à l'adresse suivante : [https://alexandra1617.github.i
 Toutes les visualisations de ce projet ont été réalisées en utilisant D3.js.
 
 ## Données
-Les données utilisées dans ce projet proviennent de fichier CSV téléchargés sur le site OurWorldInData (https://ourworldindata.com) qui recensent la consommation des trois types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en avant l'information que les différentes visualisations essaient d'illustrer.
+Les données utilisées dans ce projet proviennent de trois fichier CSV qui recensent la consommation des différents types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en avant l'information que les différentes visualisations essaient d'illustrer.
 
 
 ## Auteurs
