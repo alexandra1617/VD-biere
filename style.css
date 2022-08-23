@@ -47,8 +47,6 @@ button, select {
     max-width: 900px;
 }
 
-
-
 #header2{
     font-size: 28px;
     color: #ef6001;
@@ -74,8 +72,6 @@ button, select {
 	height: 1px;
     background-color: #aaa;
 }
-
-
 
 svg {
     display: block;
