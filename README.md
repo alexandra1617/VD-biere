@@ -17,7 +17,7 @@ Il est accessible en cliquant sur le lien suivant : [https://alexandra1617.githu
 Toutes les visualisations de ce projet ont été réalisées en utilisant D3.js.
 
 ## Données
-Les données utilisées proviennent de trois fichier CSV qui recensent la consommation des différents types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque pays de 1961 à 2009. Ces données ont ensuite été filtrées afin de mettre en évidence les informations que les différentes visualisations essaient d'illustrer.
+Les données utilisées proviennent de trois fichier CSV qui recensent la consommation des différents types d'alcool (bière/vin/spiritueux) par personne en litres dans chaque pays de 1961 à 2019. Ces données ont ensuite été filtrées afin de mettre en évidence les informations que les différentes visualisations essaient d'illustrer.
 
 ## Auteurs
 Léonard Bigler et Alexandra Stojanova
